@@ -3,8 +3,9 @@
 //  QuizApp
 //
 //  Created by Alex Louzao on 1/15/17.
+//  Updated on 1-20-17 
 //  Copyright © 2017 ALcsc2310. All rights reserved.
-//  An Update here
+//
 
 import UIKit
 
@@ -13,8 +14,8 @@ class ViewController: UIViewController {
     @IBOutlet var questionLabel: UILabel!
     @IBOutlet var answerLabel: UILabel!
 
-    let questions: [String] = ["What is 7 + 7?", "What is the capitol of NC?", "What is cognac made from?"]
-    let answers: [String] = ["14", "Raleigh", "Grapes"]
+    let questions: [String] = ["What is 7 + 7?", "What is the capitol of VT?", "What is cognac made from?"]
+    let answers: [String] = ["14", "Montpelier", "Grapes"]
     var currentQuestion: Int = 0
 
     
