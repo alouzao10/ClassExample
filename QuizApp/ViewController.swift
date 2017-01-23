@@ -3,7 +3,7 @@
 //  QuizApp
 //
 //  Created by Alex Louzao on 1/15/17.
-//  Updated on 1-20-17 
+//  Updated on 1-23-17 
 //  Copyright © 2017 ALcsc2310. All rights reserved.
 //
 
